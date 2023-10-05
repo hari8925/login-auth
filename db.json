@@ -1,3 +1,25 @@
 {
-  "user": []
+  "user": [
+    {
+      "id": "hariprasad",
+      "name": "hariprasad",
+      "password": "8925",
+      "email": "hariprasad8925@gmail.com",
+      "phone": "45678"
+    },
+    {
+      "id": "dhoni",
+      "name": "msdhoni",
+      "password": "9840",
+      "email": "msd007@gmail.com",
+      "phone": "9840567865"
+    },
+    {
+      "id": "yuvaraj",
+      "name": "yuvarajsing",
+      "password": "1234",
+      "email": "yuvaraj@gmail.com",
+      "phone": "123456789"
+    }
+  ]
 }
